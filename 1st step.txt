@@ -1,0 +1,244 @@
+Stakeholders:
+
+1) director
+2)producer
+3)actor
+4)spot boy
+5)makeup artist
+6)executive producer
+7)production assistant
+8)line producer
+9)location manager
+10)camera operator
+11)production sound mixer
+12)boom operator
+13)key grip
+14)gaffer
+15)special effects supervisor
+//16)music supervisor
+17)art director
+//18)production designer
+19)props master and analyst
+20)hairdresser
+21)costume designer
+22)script supervisor
+23)assistant director
+24)adr supervisor - This person is responsible for re-recording dialogue in post-production
+25)stunt performer
+26)best boy - hires and manages crew
+27)runner - “chotu”
+28)casting director
+29)editor
+30)composer
+31)singer
+32)choregrapher
+
+
+//health care for all stakeholders
+//chatting feature 
+Director :
+
+Director :
+sab dekhtay
+Saare stakeholders (most of em) end me director ko connect karte hai.
+work time
+location details
+display of additional equipments required
+display of lighting plan
+report of special effects
+status/report of hiring, scheduling, and management of crew; 
+the renting, ordering, inventory, and returning of equipment; 
+workplace safety and maintaining discipline within their department by best boi.
+report by casting director.
+display of editing process by editor
+status report by singer/choregrapher/composer
+
+Producer :
+
+script
+coordinating writing
+editing
+arranging financing
+hire the director and other key crew members
+marketing and distribution.
+location details
+display of additional equipments required
+display of lighting plan
+report of special effects
+status/report of hiring, scheduling, and management of crew; 
+the renting, ordering, inventory, and returning of equipment; 
+workplace safety and maintaining discipline within their department by best boi.
+report by casting director.
+display of editing process by editor
+status report by singer/choregrapher/composer
+
+executive producer :
+
+principal of all producers
+finance 
+business
+editing
+location details
+display of additional equipments required
+display of lighting plan
+report of special effects
+status/report of hiring, scheduling, and management of crew; 
+the renting, ordering, inventory, and returning of equipment; 
+workplace safety and maintaining discipline within their department by best boi.
+report by casting director.
+display of editing process by editor
+status report by singer/choregrapher/composer
+
+line producer :
+
+hr
+handles any problems
+day-to-day operations
+allotes work time to all
+location details
+report of special effects
+display of additional equipments required
+display of lighting plan
+display of editing process by editor
+status report by singer/choregrapher/composer
+
+actor :
+
+accept/reject script
+work time 
+todays script
+location details
+
+
+spot boi :
+
+
+makeup artist :
+
+work time
+actor's details
+location details
+
+
+
+location manager :
+send location details to everybody
+
+camera operator :
+
+work time
+location details
+display of additional equipments required
+display of lighting plan 
+
+production sound mixer :
+
+work time
+location details
+hiring boom operator
+discussing problems
+
+
+boom operator :
+
+work time
+location details
+
+
+key grip :
+
+work time
+location details
+determine additional camera equipments required
+report the above to camera operator
+
+gaffer :
+
+work time
+location details
+status of lighting plan
+
+special effects supervisor :
+
+work time 
+location details
+status of special effects
+
+art director :
+
+work time
+location details
+art director is to movies what software deigners are for softwares
+
+props master and analyst :
+
+work time 
+location details
+report of day's work
+
+
+hair dresser :
+
+work time 
+location details
+
+costume designer:
+
+work time 
+location details
+
+script supervisor :
+
+work time
+location details
+editor's note
+report
+script editing , due to actors during actual shooting
+
+assistant director :
+
+work time
+location details
+chota mota sab dekhtay
+
+adr supervisor :
+
+work time
+location details
+status/report
+
+stunt performer :
+
+work time
+location details
+
+best boi :
+
+status/report of hiring, scheduling, and management of crew; 
+the renting, ordering, inventory, and returning of equipment; 
+workplace safety and maintaining discipline within their department;
+work time
+location details
+
+chotu :
+
+work time
+location details
+
+casting director :
+
+work time
+location details
+status of hiring of crew.
+
+editor :
+
+work time 
+location details
+status of editing process
+
+composer/singer/choregrapher :
+
+work time 
+location details
+status report
